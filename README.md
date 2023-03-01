@@ -8,12 +8,15 @@ This website was created with
 
     - HTML
     - CSS
-    - Javascript
 
 ## Usage
 
 Please visit the link down below to test the website:
 
+    https://audreykuu.github.io/Delivery-Website/account.html
 
 
 ## Contact
+
+Github: https://github.com/AudreyKuu
+Website: https://www.audreyixd.ca/ 
