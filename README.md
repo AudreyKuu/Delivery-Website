@@ -13,7 +13,7 @@ This website was created with
 
 Please visit the link down below to test the website:
 
-    https://audreykuu.github.io/Delivery-Website/account.html
+    https://audreykuu.github.io/Delivery-Website/
 
 
 ## Contact
